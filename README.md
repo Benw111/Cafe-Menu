@@ -1,5 +1,5 @@
 # Cafe-Menu
-<link type="text/css" rel="stylesheet" href="style.css" />
+<link rel="stylesheet" href="style.css">
 <!DOCTYPE html>
 <html lang="en">
   <head>
